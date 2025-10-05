@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/Astras8/Astras8/blob/main/gato(waos).png)
 
-> La necesidad es la madre de las invenciones, pero la flojera es el padre. — Un comentario que vi en YouTube.
+> La necesidad es la madre de las invenciones, pero la flojera es el padre.
 
 - Segundo semestre de Ing. Civil en Informática.
 - Modder novato de ***Stellaris***.
