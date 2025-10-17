@@ -6,7 +6,6 @@
 
 - Segundo semestre de Ing. Civil en Informática.
 - Modder novato de ***Stellaris***.
-  - Actualmente trabajando en *Crisis-Based Home System Decorations*.
 - Conocimientos (muy) *básicos* de **C** y **Java**.
 - Aprendiendo a usar **Git** y **GitHub**.
 #
