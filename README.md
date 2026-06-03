@@ -4,10 +4,10 @@
 
 > La necesidad es la madre de las invenciones, pero la flojera es el padre.
 
-- Segundo semestre de Ing. Civil en Informática.
+- Tercer semestre de Ing. Civil en Informática.
 - Modder novato de varios juegos.
-- Conocimientos (muy) básicos de **C** y **Java**.
-- Aprendiendo a usar **Git** y **GitHub**.
+- A veces me dan delirios de que se usar C, Java y Python.
+- Quemandome las neuronas en GitHub y Git.
 #
 ### Formas de contactarme:
 ### Discord: [Astras](https://discord.com/users/599658784154976306)
